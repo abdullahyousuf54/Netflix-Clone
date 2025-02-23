@@ -145,9 +145,9 @@ nav button{
 
 .secimage video{
     position: absolute;
-    top: 51px;
-    right: 0;
-    width: calc(100% - 4vw);
+    top: 44px;
+    right: 85px;
+    width: calc(100% - 11vw);
     
 }
 
